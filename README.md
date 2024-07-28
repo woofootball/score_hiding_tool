@@ -8,11 +8,13 @@
 
 曾几何时，我们都为足球疯狂过，有时为了给自己的主队加油，有时只为了看一场精彩球赛，有时也为了追逐某个杯赛，我们时常彻夜未眠，只为追逐心中的那份惬意！
 
-喜欢的观看足球比赛的朋友，应该有这么一种经历，有时经常会因为各种条件上的不允许，不得不错过一些精彩足球赛事的直播，于是，一些不满足于观看赛后集锦视频的球迷只能退而求其次，选择观看足球赛事全场回放，来弥补自己心中的遗憾。
+喜欢的观看足球比赛的朋友，应该有这么一种经历，有时经常会因为各种条件上的不允许，不得不错过一些精彩足球赛事的直播。
+
+于是众多球迷选择赛后空闲时间观看足球赛事回放，来弥补自己未观看直播的遗憾。
 
 但是，当我们满怀热情好不容易找到一个视频网站去观看比赛回放时，网页里那些醒目的比分结果，充满剧透的标题，以及充满进球庆祝动作的视频封面，无时无刻不在剧透相关赛事的发展， 劝退一波又一波想看回放的球迷。
 
-于是，为了挽救热爱观看足球回放的你，不再受烦人的剧透行为干扰，隐分宝应运而生！
+为了挽救热爱观看足球回放的球迷，不再受烦人的剧透行为干扰，隐分宝应运而生！
 
 
 
@@ -28,7 +30,7 @@
 
 ![page-yfb-ys-1](https://testingcf.jsdelivr.net/gh/pengzhangsir/woo_img/page/page-yfb-ys-1.gif)
 
-可以看到，正常浏览时页面的视频标题，内容介绍，封面图片，以及比分牌，任何角落都有比赛信息。对于那些只想简简单单的看个无剧透足球回放的球迷来说，还真挺难的！
+可以看到，正常浏览时页面的视频标题，内容介绍，封面图片，以及比分牌，任何角落都有比赛信息。对于那些只想简简单单的看个无剧透足球回放的球迷来说，体验非常不友好！
 
 
 
@@ -55,138 +57,74 @@
 
 
 
-## 支持终端浏览器
+## 支持终端
 
-> 注意：该插件仅适合在浏览器内通过网页观看视频时使用，无法满足app或小程序内使用，敬请谅解！
+> 注意：该插件仅适合在浏览器内通过网页观看足球赛事回放时使用，无法满足app或小程序内使用，敬请谅解！
 
 |  终端  |                            浏览器                            |
 | :----: | :----------------------------------------------------------: |
-|  PC端  | <img  src="https://testingcf.jsdelivr.net/gh/pengzhangsir/woo_img/page/page-yfb-icon-1.webp?"  width="40" height="40"   />Chrome （推荐） <img  src="https://testingcf.jsdelivr.net/gh/pengzhangsir/woo_img/page/page-yfb-icon-2.webp"  width="40" height="40"   />360安全  <img  src="https://testingcf.jsdelivr.net/gh/pengzhangsir/woo_img/page/page-yfb-icon-3.webp"  width="40" height="40"   />360极速  <img  src="https://testingcf.jsdelivr.net/gh/pengzhangsir/woo_img/page/page-yfb-icon-6.webp"  width="40" height="40"   />QQ  <img  src="https://testingcf.jsdelivr.net/gh/pengzhangsir/woo_img/page/page-yfb-icon-5.webp"  width="40" height="40"   />火狐<img  src="https://testingcf.jsdelivr.net/gh/pengzhangsir/woo_img/page/page-yfb-icon-4.webp"  width="40" height="40"   />Edge |
-| 移动端 | <img  src="https://testingcf.jsdelivr.net/gh/pengzhangsir/woo_img/page/page-yfb-icon-10.webp"  width="40" height="40"   />狐猴（推荐）  <img  src="https://testingcf.jsdelivr.net/gh/pengzhangsir/woo_img/page/page-yfb-icon-9.webp"  width="40" height="40"   />Kiwi  <img  src="https://testingcf.jsdelivr.net/gh/pengzhangsir/woo_img/page/page-yfb-icon-5.webp"  width="40" height="40"   />火狐 |
+|  PC端  | <img  src="https://testingcf.jsdelivr.net/gh/pengzhangsir/woo_img/page/page-yfb-icon-1.webp?"  width="40" height="40"   />Chrome （推荐） <img  src="https://testingcf.jsdelivr.net/gh/pengzhangsir/woo_img/page/page-yfb-icon-2.webp"  width="40" height="40"   />360安全  <img  src="https://testingcf.jsdelivr.net/gh/pengzhangsir/woo_img/page/page-yfb-icon-3.webp"  width="40" height="40"   />360极速  <img  src="https://testingcf.jsdelivr.net/gh/pengzhangsir/woo_img/page/page-yfb-icon-6.webp"  width="40" height="40"   />QQ  <img  src="https://testingcf.jsdelivr.net/gh/pengzhangsir/woo_img/page/page-yfb-icon-4.webp"  width="40" height="40"   />Edge |
+| 移动端 | <img  src="https://testingcf.jsdelivr.net/gh/pengzhangsir/woo_img/page/page-yfb-icon-10.webp"  width="40" height="40"   />狐猴（推荐）  <img  src="https://testingcf.jsdelivr.net/gh/pengzhangsir/woo_img/page/page-yfb-icon-9.webp"  width="40" height="40"   />Kiwi |
+
+若有需要支持其它浏览器，可通过woofootball@aliyun.com官方邮箱地址反馈哦！
 
 
 
-## PC端安装教程
+## 安装教程
 
-#### 1.官方应用市场安装
+#### 1.Chrome应用商店应用市场安装（需科学上网）
 
-##### 1.1 Chrome应用商店（需科学上网）
+PC端适用浏览器：chrome、360安全浏览器、360极速浏览器、Edge浏览器
 
-适用浏览器：chrome、狐猴浏览器、360安全浏览器、360极速浏览器、QQ浏览器
+移动端适用浏览器：狐猴浏览器、Kiwi浏览器
 
-地址：[Chrome应用商店](https://chromewebstore.google.com/detail/%E9%9A%90%E5%88%86%E5%AE%9D/kagiibpabaiokolfogibbncebfmeolfa)
+chrome应用商店下载地址：[隐分宝](https://chromewebstore.google.com/detail/%E9%9A%90%E5%88%86%E5%AE%9D/kagiibpabaiokolfogibbncebfmeolfa)
 
-![微信截图_20240725133908](https://testingcf.jsdelivr.net/gh/pengzhangsir/woo_img/page/page-yfb-sd-2.webp)
+#### 2.crx 安装包安装
 
-##### 1.2 火狐附加组件中心
+pc端适用浏览器：chrome、360安全浏览器、360极速浏览器、Edge浏览器、QQ浏览器
 
-适用浏览器：火狐浏览器
+移动端适用浏览器：狐猴浏览器、Kiwi浏览器
 
-地址:  [火狐附加组件中心](https://addons.mozilla.org/zh-CN/firefox/addon/emoji-sav/?utm_source=addons.mozilla.org&utm_medium=referral&utm_content=hotness)
-
-安装方式：直接点击添加至chrome
-
-
-
-#### 2.crx 安装包拖拽安装
-
-适用浏览器：chrome浏览器、360安全浏览器、360极速浏览器、Edge浏览器
-
-a.从以下地址中下载浏览器对应的crx安装包
+a.从以下地址中下载最新版本的yfb-chrome.crx安装包
 
 * [github](https://github.com/woofootball/score_hiding/releases ) (国内访问速度较慢)
 
 * [码云](https://github.com/woofootball/score_hiding/releases )（国内访问速度快）
 
-b.打开浏览器，找到浏览器扩展程序管理界面，以chrome为例，可以通过地址栏直接输入chrome://extensions/进入，进入后打开右上角开发者模式。
+b.打开浏览器，找到浏览器扩展程序管理界面（以chrome为例，可以通过地址栏直接输入chrome://extensions/进入），进入后打开右上角开发者模式。
 
-![教程1](https://testingcf.jsdelivr.net/gh/pengzhangsir/woo_img/page/page-yfb-jc-1.webp)
-
-
-
-c. 直接将之前下载好的crx安装包拖入即可完成安装
-
-![教程2](https://testingcf.jsdelivr.net/gh/pengzhangsir/woo_img/page/page-yfb-jc-2.webp)
-
-
-
-
-
-
-
-
+c. 将之前a步骤中下载好的crx安装包即可完成安装
 
 #### 3.加载已解压扩展安装
 
->  如若通过crx拖拽安装后提示 ***`无法验证此扩展程序的来源`*** 、***`此扩展不是来自任何已知来源，可能是在你不知情的情况下添加的`*** ，则需要以下方式安装
+如若通过crx安装后提示 ***`无法验证此扩展程序的来源`*** 、***`此扩展不是来自任何已知来源，可能是在你不知情的情况下添加的`*** ，则需要通过加载已解压扩展程序安装
 
+pc端适用浏览器：chrome、360安全浏览器、360极速浏览器、Edge浏览器、QQ浏览器
 
+移动端不适用
 
-![教程4](https://testingcf.jsdelivr.net/gh/pengzhangsir/woo_img/page/page-yfb-jc-4.webp)
-
-此时可通过以下步骤，通过需要加载已解压扩展程序安装
-
-a.可从以下地址下载压缩包文件，将下载后的压缩包进行解压
+a.从以下地址中下载最新版本的yfb-chrome.zip压缩包文件，将下载后的压缩包进行解压
 
 * [github](https://github.com/woofootball/score_hiding/releases ) (国内访问速度较慢)
 
 * [码云](https://github.com/woofootball/score_hiding/releases )（国内访问速度快）
 
-b.打开浏览器扩展程序管理界面，并打开开发者模式，选择左上角加载已解压的扩展程序。
-
-![教程7](https://testingcf.jsdelivr.net/gh/pengzhangsir/woo_img/page/page-yfb-jc-7.webp)
+b.打开浏览器扩展程序管理界面，并打开开发者模式，选择左上角加载已解压的扩展程序，选择加载已解压的扩展程序
 
 c.选择刚刚解压完成的文件夹即可完成安装
-
-![教程5](https://testingcf.jsdelivr.net/gh/pengzhangsir/woo_img/page/page-yfb-jc-5.webp)
-
-
-
-## 移动端安装教程
-
-> 以狐猴浏览器为例，其余浏览器同理
-
-#### 1.Chrome应用商店安装（需科学上网）
-
-a.打开浏览器，找到扩展应用
-
-![](https://testingcf.jsdelivr.net/gh/pengzhangsir/woo_img/page/page-yfb-jc-15.webp?1=1)
-
-b.打开谷歌商店，进入后搜索隐分宝插件
-
-![](https://testingcf.jsdelivr.net/gh/pengzhangsir/woo_img/page/page-yfb-jc-16.webp)
-
-c.点击添加进chrome，即可完成安装
-
-![](https://testingcf.jsdelivr.net/gh/pengzhangsir/woo_img/page/page-yfb-jc-12.webp)
-
-#### 2.crx安装
-
-a.从以下地址中下载crx安装包到手机上
-
-* [github](https://github.com/woofootball/score_hiding/releases ) (国内访问速度较慢)
-
-* [码云](https://github.com/woofootball/score_hiding/releases )（国内访问速度快）
-
-b.打开扩展管理，打开开发者模式，选择加载crx/zip按钮
-
-![](https://testingcf.jsdelivr.net/gh/pengzhangsir/woo_img/page/page-yfb-jc-17.webp?21)
-
-c.找到a步骤已下载的crx文件，即可完成安装
-
-![](https://testingcf.jsdelivr.net/gh/pengzhangsir/woo_img/page/page-yfb-jc-14.webp)
 
 
 
 ## 使用教程
 
-**隐分宝是需要与woofootball.com（膨胀的球足球网）绑定使用的一款插件**，当插件在浏览器安装后，需要从woofootball.com下的比赛回放界面，选择需要观看的比赛进入，才能激活插件使用。
+**隐分宝是需要与woofootball.com（膨胀的球足球网）绑定使用的一款插件**，当插件在浏览器安装成功后，需要从woofootball.com下的比赛回放界面，选择需要观看的比赛进入，才能激活插件使用哦。
 
 ![教程8](https://testingcf.jsdelivr.net/gh/pengzhangsir/woo_img/page/page-yfb-jc-8.webp)
 
 
 
-插件安装成功后，选择完想要观看的比赛后，当出现 **隐分宝已准备就绪** 字样，则代表插件可以正常使用！请放心前往观赛！
+选择完想要观看的比赛后，当出现 **隐分宝已准备就绪** 字样，则代表插件可以正常使用！请放心前往观赛！
 
 
 
