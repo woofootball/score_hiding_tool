@@ -88,9 +88,7 @@ pc端适用浏览器：chrome、360安全浏览器、360极速浏览器、Edge�
 
 a.从以下地址中下载最新版本的yfb-chrome.crx安装包
 
-* [github](https://github.com/woofootball/score_hiding/releases ) (国内访问速度较慢)
-
-* [码云](https://github.com/woofootball/score_hiding/releases )（国内访问速度快）
+* [github](https://github.com/woofootball/score_hiding_tool/releases/tag/v1.3.0 )
 
 b.打开浏览器，找到浏览器扩展程序管理界面（以chrome为例，可以通过地址栏直接输入chrome://extensions/进入），进入后打开右上角开发者模式。
 
@@ -106,9 +104,7 @@ pc端适用浏览器：chrome、360安全浏览器、360极速浏览器、Edge�
 
 a.从以下地址中下载最新版本的yfb-chrome.zip压缩包文件，将下载后的压缩包进行解压
 
-* [github](https://github.com/woofootball/score_hiding/releases ) (国内访问速度较慢)
-
-* [码云](https://github.com/woofootball/score_hiding/releases )（国内访问速度快）
+* [github](https://github.com/woofootball/score_hiding_tool/releases/tag/v1.3.0 )
 
 b.打开浏览器扩展程序管理界面，并打开开发者模式，选择左上角加载已解压的扩展程序，选择加载已解压的扩展程序
 
