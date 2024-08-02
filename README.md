@@ -1,20 +1,20 @@
 # 隐分宝
 
-[TOC]
-
-
-
 ## 初衷
 
-曾几何时，我们都为足球疯狂过，有时为了给自己的主队加油，有时只为了看一场精彩球赛，有时也为了追逐某个杯赛，我们时常彻夜未眠，只为追逐心中的那份惬意！
+曾几何时，我们都为足球疯狂过，有时为了给自己的主队加油，有时只为单纯看一场强强对话，有时也只为追逐某届杯赛，我们时常彻夜未眠，只为享受足球带来的那份激情！
 
-喜欢的观看足球比赛的朋友，应该有这么一种经历，有时经常会因为各种条件上的不允许，不得不错过一些精彩足球赛事的直播。
+![教程8](https://testingcf.jsdelivr.net/gh/pengzhangsir/woo_img/page/page-yfb-ys-3.webp)
+
+经常观看足球比赛的朋友，应该有这么一种经历，有时会因为各种条件上的不允许，不得不错过一些精彩足球赛事的直播。
 
 于是众多球迷选择赛后空闲时间观看足球赛事回放，来弥补自己未观看直播的遗憾。
 
-但是，当我们满怀热情好不容易找到一个视频网站去观看比赛回放时，网页里那些醒目的比分结果，充满剧透的标题，以及充满进球庆祝动作的视频封面，无时无刻不在剧透相关赛事的发展， 劝退一波又一波想看回放的球迷。
+但是，当我们满怀热情好不容易找到一个视频网站去观看比赛回放时，网页里那些醒目的比分结果，充满剧透的标题，以及充满进球庆祝动作的视频封面，无时无刻不在剧透相关赛事的发展，劝退一波又一波想看回放的球迷。
 
-为了挽救热爱观看足球回放的球迷，不再受烦人的剧透行为干扰，隐分宝应运而生！
+![教程8](https://testingcf.jsdelivr.net/gh/pengzhangsir/woo_img/page/page-yfb-ys-4.webp)
+
+如果你也经常受烦人的剧透看球行为干扰，不妨试试试试这个插件！
 
 
 
@@ -60,6 +60,8 @@
 ## 支持终端
 
 > 注意：该插件仅适合在浏览器内通过网页观看足球赛事回放时使用，无法满足app或小程序内使用，敬请谅解！
+>
+> 以下为已测试可兼容浏览器，其余浏览器可自行尝试
 
 |  终端  |                            浏览器                            |
 | :----: | :----------------------------------------------------------: |
@@ -72,13 +74,15 @@
 
 ## 安装教程
 
-#### 1.Chrome应用商店应用市场安装（需科学上网）
+#### 1.Chrome应用商店应用市场安装
 
 PC端适用浏览器：chrome、360安全浏览器、360极速浏览器、Edge浏览器
 
 移动端适用浏览器：狐猴浏览器、Kiwi浏览器
 
-chrome应用商店下载地址：[隐分宝](https://chromewebstore.google.com/detail/%E9%9A%90%E5%88%86%E5%AE%9D/kagiibpabaiokolfogibbncebfmeolfa)
+chrome应用商店（需科学上网）：[隐分宝](https://chromewebstore.google.com/detail/%E9%9A%90%E5%88%86%E5%AE%9D/kagiibpabaiokolfogibbncebfmeolfa)
+
+crx搜搜（免科学上网）：[隐分宝](https://www.crxsoso.com/webstore/detail/kagiibpabaiokolfogibbncebfmeolfa)
 
 #### 2.crx 安装包安装
 
@@ -88,7 +92,8 @@ pc端适用浏览器：chrome、360安全浏览器、360极速浏览器、Edge�
 
 a.从以下地址中下载最新版本的yfb-chrome.crx安装包
 
-* [github](https://github.com/woofootball/score_hiding_tool/releases/tag/v1.3.0 )
+* [github](https://github.com/woofootball/score_hiding_tool/releases )
+* [码云](https://gitee.com/woofootball/score_hiding_tool )
 
 b.打开浏览器，找到浏览器扩展程序管理界面（以chrome为例，可以通过地址栏直接输入chrome://extensions/进入），进入后打开右上角开发者模式。
 
@@ -104,7 +109,8 @@ pc端适用浏览器：chrome、360安全浏览器、360极速浏览器、Edge�
 
 a.从以下地址中下载最新版本的yfb-chrome.zip压缩包文件，将下载后的压缩包进行解压
 
-* [github](https://github.com/woofootball/score_hiding_tool/releases/tag/v1.3.0 )
+* [github](https://github.com/woofootball/score_hiding_tool/releases )
+* [码云](https://gitee.com/woofootball/score_hiding_tool )
 
 b.打开浏览器扩展程序管理界面，并打开开发者模式，选择左上角加载已解压的扩展程序，选择加载已解压的扩展程序
 
@@ -112,7 +118,7 @@ c.选择刚刚解压完成的文件夹即可完成安装
 
 
 
-## 使用教程
+## 使用教程（必看）
 
 **隐分宝是需要与woofootball.com（膨胀的球足球网）绑定使用的一款插件**，当插件在浏览器安装成功后，需要从woofootball.com下的比赛回放界面，选择需要观看的比赛进入，才能激活插件使用哦。
 
@@ -134,7 +140,7 @@ c.选择刚刚解压完成的文件夹即可完成安装
 
 
 
-但是如果安装插件后，没有从**woofootball.com**进入观看，则无法激活插件功能，会提示用户去 **woofootball.com（膨胀的球足球故事）**进入观看比赛哦！
+但是如果安装插件后，没有从**woofootball.com**进入观看，则无法激活插件功能，会提示用户去 **woofootball.com**（膨胀的球足球故事）进入观看比赛哦！
 
 ![jc11](https://testingcf.jsdelivr.net/gh/pengzhangsir/woo_img/page/page-yfb-jc-11.webp)
 
@@ -142,17 +148,13 @@ c.选择刚刚解压完成的文件夹即可完成安装
 
 
 
-
-
-## 意见反馈
+## 写在最后
 
 隐分宝目前初版发布阶段，如果球迷在使用过程中发现任何问题或有任何改进建议，请随时告知我们，我们将认真聆听，及时返还给广大球迷一个更好用的隐分宝。
 
+足球是联系我在此相见的媒介，正是因为对足球的那份热爱，我们才愿意免费为广大球迷看球方便而服务，我们之间并无功利，只有一个共同的兴趣，如果哪天这个工具惹你生气了，你可以发脾气，卸载插件，但请不要放弃对足球的热爱！
 
-
-## 免责声明
-
-隐分宝初衷只为帮助球迷观看足球赛事回放时，隐藏相关比分剧透因素，并无其它不良目的，隐分宝不收集用户任何个人资料以及账号数据，请放心安装使用。
+For love and peace !
 
 
 
@@ -163,8 +165,6 @@ c.选择刚刚解压完成的文件夹即可完成安装
 |                             微信                             |                            支付宝                            |
 | :----------------------------------------------------------: | :----------------------------------------------------------: |
 | <img src="https://testingcf.jsdelivr.net/gh/pengzhangsir/woo_img/default/charge-wechat.webp" width="300" height="300" > | <img src="https://testingcf.jsdelivr.net/gh/pengzhangsir/woo_img/default/charge-alipay.webp" width="300" height="300" > |
-
-
 
 
 
